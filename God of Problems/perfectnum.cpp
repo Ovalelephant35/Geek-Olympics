@@ -1,7 +1,6 @@
 class Solution {
   public:
     int isPerfectNumber(long long N) {
-  // code here
         if(N==1){
             return 0;
         }
